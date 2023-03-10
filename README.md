@@ -44,7 +44,7 @@ __Configure secrets__
   * Actions
   * DATABRICKS_HOST_PRD: https://< databricks_workspace_name >.com/
   * DATABRICKS_TOKEN_PRD: < personal access token generated in databricks >
-
+change to test
 __Action time!__
 * Go to Databricks Repos and clone your repository.
 * Checkout branch- feature/< username > 
